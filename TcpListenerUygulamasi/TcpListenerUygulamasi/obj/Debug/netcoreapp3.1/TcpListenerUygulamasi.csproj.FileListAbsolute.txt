@@ -1,0 +1,13 @@
+C:\Users\ASUS\Source\Repos\TcpListenerUygulamasi\TcpListenerUygulamasi\obj\Debug\netcoreapp3.1\TcpListenerUygulamasi.csprojAssemblyReference.cache
+C:\Users\ASUS\Source\Repos\TcpListenerUygulamasi\TcpListenerUygulamasi\obj\Debug\netcoreapp3.1\TcpListenerUygulamasi.AssemblyInfoInputs.cache
+C:\Users\ASUS\Source\Repos\TcpListenerUygulamasi\TcpListenerUygulamasi\obj\Debug\netcoreapp3.1\TcpListenerUygulamasi.AssemblyInfo.cs
+C:\Users\ASUS\Source\Repos\TcpListenerUygulamasi\TcpListenerUygulamasi\obj\Debug\netcoreapp3.1\TcpListenerUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Source\Repos\TcpListenerUygulamasi\TcpListenerUygulamasi\bin\Debug\netcoreapp3.1\TcpListenerUygulamasi.exe
+C:\Users\ASUS\Source\Repos\TcpListenerUygulamasi\TcpListenerUygulamasi\bin\Debug\netcoreapp3.1\TcpListenerUygulamasi.deps.json
+C:\Users\ASUS\Source\Repos\TcpListenerUygulamasi\TcpListenerUygulamasi\bin\Debug\netcoreapp3.1\TcpListenerUygulamasi.runtimeconfig.json
+C:\Users\ASUS\Source\Repos\TcpListenerUygulamasi\TcpListenerUygulamasi\bin\Debug\netcoreapp3.1\TcpListenerUygulamasi.runtimeconfig.dev.json
+C:\Users\ASUS\Source\Repos\TcpListenerUygulamasi\TcpListenerUygulamasi\bin\Debug\netcoreapp3.1\TcpListenerUygulamasi.dll
+C:\Users\ASUS\Source\Repos\TcpListenerUygulamasi\TcpListenerUygulamasi\bin\Debug\netcoreapp3.1\TcpListenerUygulamasi.pdb
+C:\Users\ASUS\Source\Repos\TcpListenerUygulamasi\TcpListenerUygulamasi\obj\Debug\netcoreapp3.1\TcpListenerUygulamasi.dll
+C:\Users\ASUS\Source\Repos\TcpListenerUygulamasi\TcpListenerUygulamasi\obj\Debug\netcoreapp3.1\TcpListenerUygulamasi.pdb
+C:\Users\ASUS\Source\Repos\TcpListenerUygulamasi\TcpListenerUygulamasi\obj\Debug\netcoreapp3.1\TcpListenerUygulamasi.genruntimeconfig.cache
